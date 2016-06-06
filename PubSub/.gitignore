@@ -1,0 +1,6 @@
+*.o
+PubGlife/PubGlife
+SubGlife/SubGlife
+a.out
+*.a
+*.so.*
